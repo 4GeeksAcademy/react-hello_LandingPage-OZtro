@@ -13,9 +13,6 @@ const Home = () => {
 			<Welcome/>
 			<Cards/>
 			<Footer/>
-
-			
-
 		</div>
 	);
 };
